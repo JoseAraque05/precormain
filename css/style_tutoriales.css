@@ -1,0 +1,57 @@
+body {
+    background: #e6e6e6;
+}
+.icon-rocket {
+    font-size: x-large;
+    color: #fff;
+}
+.icon-home-1 {
+    color: #f2f2f2;
+}
+.icon-videocam {
+    color: #fff;
+}
+.icon-user {
+    color: #fff;
+}
+.col{
+    margin-top: 20px;
+}
+.titulo1 {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.card-deck .card .card-footer {
+    background: #343a40;
+}
+footer {
+    width: 100%;
+    background: #343a40;
+    padding: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+footer .redes-sociales a {
+    color: #fff;
+    text-decoration: underline;
+    /* margin-left: 20px;  */
+
+}
+footer .redes-sociales .icon-copyright {
+    display: inline-flex;
+}
+footer .redes-sociales .icon-facebook-squared {
+    margin-left: 30px;
+}
+footer .redes-sociales a:hover {
+    text-decoration: none;
+}

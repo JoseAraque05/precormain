@@ -1,0 +1,69 @@
+body {
+    background: #e6e6e6;
+}
+
+.titulo1{
+    margin-top: 20px;
+}
+
+.col-8 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card {
+    border-radius: 10px;
+}
+.card-body {
+    background: #343a40;
+    color: #fff;
+}
+.card-body hr {
+    background: #fff;
+}
+.icon-rocket {
+    font-size: x-large;
+    color: #fff;
+}
+.icon-home-1 {
+    color: #f2f2f2;
+}
+.icon-videocam {
+    color: #fff;
+}
+.icon-user {
+    color: #fff;
+}
+.icon-facebook-squared {
+    color: #fff;
+}
+.icon-gplus {
+    color: #fff;
+}
+
+
+footer {
+    width: 100%;
+    background: #343a40;
+    padding: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+footer .redes-sociales a {
+    color: #fff;
+    text-decoration: underline;
+    /* margin-left: 20px;  */
+
+}
+footer .redes-sociales .icon-copyright {
+    display: inline-flex;
+}
+footer .redes-sociales .icon-facebook-squared {
+    margin-left: 30px;
+}
+footer .redes-sociales a:hover {
+    text-decoration: none;
+}

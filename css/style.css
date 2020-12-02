@@ -1,0 +1,146 @@
+body {
+    background: #e6e6e6;
+}
+.icon-rocket {
+    font-size: x-large;
+    color: #fff;
+}
+.icon-videocam {
+    color: #fff;
+}
+.icon-home-1 {
+    color: #f2f2f2;
+}
+.icon-user {
+    color: #fff;
+}
+.barra-menu a {
+    border-radius: 5px;
+    color: rgb(233, 235, 241)
+}
+
+.barra-menu a:hover {
+    background: rgba(255, 255, 255, .2);
+}
+.card div a {
+    margin-bottom: 0;
+
+}
+.desplegable {
+    background: rgba(0, 0, 0, 0.452);
+    font-size: 13px;
+}
+
+.carousel {
+    margin-top: 10px;
+}
+.imagen h5 {
+    margin-bottom: 0;
+    color: rgb(247, 247, 248);
+    font-size: 25px;
+}
+.imagen p {
+    font-size: 25px;
+    color: rgb(10, 10, 10);
+    margin-bottom: 0;
+}
+.card {
+    margin-top: 20px;
+}
+.card .card-header a{
+    color: #f2f2f2;
+}
+.card .card-header {
+    background: #343a40;
+    border-radius: 5px;
+}
+.card .card-header i {
+    color: #fff;
+    display: inline-flex;
+    justify-content: flex-end;
+    
+}
+.card .parrafo {
+    padding: 15px;
+}
+.list-group {
+    margin-top: 20px;
+}
+.widget {
+    overflow: hidden;
+    margin-top: 20px;
+}
+.widget ul {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+.widget ul li {
+    list-style: none;
+    float: left;
+}
+.widget .block-title {
+    padding-bottom: 30px;
+}
+.widget .block-title h1 {
+    font-size: 28px;
+    line-height: 32px;
+    color: #454855;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.widget .block-title h2 {
+    font-size: 18px;
+    line-height: 24px;
+    color: #454855;
+}
+.div {
+    list-style: none;
+    overflow: hidden;
+    float: left;
+}
+.div h1 {
+    font-size: 13px;
+    line-height: 24px;
+    color: #000000;
+    text-transform: uppercase;
+}
+.div .icon {
+    margin-right: 10px;
+    background: #343a40;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 18px;
+    line-height: 25px;
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    background: #343a40;
+    padding: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+footer .redes-sociales a {
+    color: #fff;
+    text-decoration: underline;
+    /* margin-left: 20px;  */
+
+}
+footer .redes-sociales .icon-copyright {
+    display: inline-flex;
+}
+footer .redes-sociales .icon-facebook-squared {
+    margin-left: 30px;
+}
+footer .redes-sociales a:hover {
+    text-decoration: none;
+}
